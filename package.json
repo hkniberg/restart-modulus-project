@@ -1,0 +1,21 @@
+{
+  "name": "restart-modulus-project",
+  "version": "1.0.0",
+  "description": "Lambda that uses the modulus CLI to restart a modulus project",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkniberg/restart-modulus-project.git"
+  },
+  "author": "hkniberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hkniberg/restart-modulus-project/issues"
+  },
+  "homepage": "https://github.com/hkniberg/restart-modulus-project#readme"
+}
